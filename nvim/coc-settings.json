@@ -1,0 +1,14 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "typescript",
+    "javascript",
+    "typescriptreact",
+    "javascriptreact",
+    "json",
+    "markup",
+    "cpp",
+    "html"
+  ],
+  "svelte.enable-ts-plugin": true
+}
